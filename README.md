@@ -18,3 +18,6 @@ It is designed for quick and convenient viewing of enemy spawns during gameplay.
 4. Done, you can now run the AHK script.
 
 ## How it works
+I've written a separate guide in Steam on how to use it. Be sure to familiarize yourself with it so that you don't have any questions.
+
+[Fortunes of War - Cataclysm Spawn Overlay (AHK)](https://steamcommunity.com/sharedfiles/filedetails/?id=3620892502)
