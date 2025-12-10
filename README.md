@@ -1,9 +1,9 @@
 # Fortunes of War - Cataclysm Spawn Overlay (AHK)
 <img width="318" height="320" alt="2025-12-07_22-05" src="https://github.com/user-attachments/assets/9490fd7b-ef6d-49fc-8911-4714d6eda282" />
 
-I made a handy AHK script, that helps display enemy spawn locations and the composition of all 8 waves for “Fortunes of War” (Cataclysm).
+I made AHK script, that helps display enemy spawn locations and the composition of all 8 waves for “Fortunes of War” (Cataclysm).
 
-It is designed for quick and convenient viewing of enemy spawns during gameplay. This will be especially useful in moments when you don't have time to switch to another window with a tooltip (ALT+TAB).
+It is designed for quick and convenient viewing of enemy spawns during the game, which is especially useful in moments when you do not have time to switch to another window with a hint (ALT+TAB).
 
 **List of features:**
 - Necessary information about all waves.
