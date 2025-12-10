@@ -6,12 +6,12 @@ I made a handy AHK script, that helps display enemy spawn locations and the comp
 It is designed for quick and convenient viewing of enemy spawns during gameplay. This will be especially useful in moments when you don't have time to switch to another window with a tooltip (ALT+TAB).
 
 **List of features:**
-- Essential information about all waves
-- Convenient navigation
-- Color coding
-- Change hotkeys
-- Adjust overlay transparency
-- Save window position on screen
+- Necessary information about all waves.
+- Convenient navigation.
+- Color coding.
+- Change hotkeys.
+- Adjust overlay transparency.
+- Save window position on screen.
 
 ## Installation
 1. First, go to the releases page [GitHub](https://steamcommunity.com/linkfilter/?url=https://github.com/ChadMasodin/FoW-Spawn-Overlay/releases).
